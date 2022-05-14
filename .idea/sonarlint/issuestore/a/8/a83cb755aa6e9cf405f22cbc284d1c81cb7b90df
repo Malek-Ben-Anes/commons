@@ -1,0 +1,5 @@
+
+š
+java:S1845"Rename method "hashcode" to prevent any misunderstanding/clash with method "hashCode" defined in superclass "java.lang.Object".(¾Ô¨©øÿÿÿÿ
+t
+java:S1221"YEither override Object.hashCode(), or totally rename the method to prevent any confusion.(¾Ô¨©øÿÿÿÿ
